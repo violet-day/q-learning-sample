@@ -7,17 +7,17 @@ real code for [Q-Learning-Tutorial](http://mnemstudio.org/path-finding-q-learnin
 
 ## room map
 
-![resource/modeling_environment_clip_image002a.gif]
+![room map](resource/modeling_environment_clip_image002a.gif)
 
 room 5 is the goal room. Once enter room 5, got reward 100
 
 ### state machines
 
-![resource/map3a.gif]
+![state machines](resource/map3a.gif)
 
 ### reward matrix
 
-![resource/r_matrix1.gif]
+![reward matrix](resource/r_matrix1.gif)
 
 * `-1` means the way can't be happen
 * `0` or `100` means reward
